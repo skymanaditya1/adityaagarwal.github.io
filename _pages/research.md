@@ -23,7 +23,7 @@ We propose an end-to-end pipeline for the task of human action recognition on vi
 ## Fast Multilingual Acoustic Model for Low Resource Languages
 
 <div class="research-sub">
-    <b>Speech Recognition</b>, <a href="/files/MASR_Synapse.pdf">Short paper</a>, <i>2020</i>
+    <b>Speech Recognition</b>, <a href="/files/MASR_Synapse.pdf">Short paper</a>, <a href="/files/MASR___SLT.pdf">Blind paper</a>, <i>2020</i>
 </div>
 
 <div class="img-wrapper">

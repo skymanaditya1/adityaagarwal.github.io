@@ -11,7 +11,7 @@ My research areas include application of Deep Learning techniques to problems in
 ## An Approach Towards Action Recognition using Part Based Hierarchical Fusion
 
 <div class="research-sub">
-    <b>Computer Vision</b>, <a href="/files/EasyChair_PaperID_190.pdf">Paper</a>, <i>2020</i>
+    <b>Computer Vision</b>, <a href="/files/EasyChair_PaperID_190.pdf">Paper</a>, <a href="/files/PBAR_Synapse.pdf">Synapse</a>,  <i>2020</i>
 </div>
 
 <div class="img-wrapper">
@@ -23,7 +23,7 @@ We propose an end-to-end pipeline for the task of human action recognition on vi
 ## Fast Multilingual Acoustic Model for Low Resource Languages
 
 <div class="research-sub">
-    <b>Speech Recognition</b>, <a href="/files/MASR___SLT.pdf">Paper</a>, <i>2020</i>
+    <b>Speech Recognition</b>, <a href="/files/MASR_SLT_Regular.pdf">Paper</a>, <a href="/files/MASR_Synapse.pdf">Synapse</a>,  <i>2020</i>
 </div>
 
 <div class="img-wrapper">
